@@ -1,0 +1,35 @@
+# The To-Do Dudes LLC
+
+> Home labor service based in Palm Coast, Florida, founded May 14, 2020 by Erik Libby. Sends background-checked, trained team members ("Dudes") for yard work, heavy lifting and odd jobs. 12,000+ jobs completed for 4,000+ customers. Rated 5.0 from 737 Google reviews. On-time guarantee: $10 off per Dude if even one minute late.
+
+## Contact
+- Phone (call or text): (386) 597-0722
+- Email: info@thetododudes.com
+- Book online: https://book.thetododudes.com/
+
+## Service area
+Palm Coast, Flagler Beach, Ormond Beach, Daytona Beach and Port Orange, Florida. Nearby areas like St. Augustine for a $25 per Dude out-of-area fee.
+
+## Services
+- Yard work: raking, weeding, gutter cleaning, hedge and bush removal, planting, mulching, rock placement, storm prep
+- Heavy lifting: loading and unloading, packing, furniture, boxes, mattresses, PODs, storage units. Labor only, no trucks or vehicles supplied
+- Odd jobs and events: furniture assembly, hanging TVs and pictures, light handyman help, attic clean outs, party and event setup and breakdown
+- Not offered: chemical lawn treatment, mowing with company equipment, driving trucks
+
+## Pricing (2 Dudes per visit)
+- Quick Fix Visit, 2 hours: $236 (Chore Club members $196)
+- Half-Day Help, 4 hours: $472 (members $392)
+- Full Day Project, 8 hours: $944 (members $784)
+- Chore Club membership: $149 per year. $10 off per hour, 1 hour minimum, priority support, custom bookings, unlimited properties, bulk hour packages
+- Gift cards: 2 hours $118, 4 hours $236, 8 hours $472, Chore Club $149, Chore Club + 4 hours $385, Chore Club + 8 hours $621
+- Referral program: $25 credit for both the referrer and the new customer
+
+## Trust
+Every Dude completes an application, screening call, interview, in-person onboarding and supervised field training. Liability coverage and workers' compensation insurance. All team members 18+. $5 donated to the Flagler County Education Foundation for every Google review. Next Generation Award, City of Palm Coast, February 2024.
+
+## Pages
+- Home: https://patalanocameron-ui.github.io/tododudes-site/
+- Services and pricing: https://patalanocameron-ui.github.io/tododudes-site/services/
+- Chore Club, gift cards and referrals: https://patalanocameron-ui.github.io/tododudes-site/chore-club/
+- About and press: https://patalanocameron-ui.github.io/tododudes-site/who-we-are/
+- Careers: https://patalanocameron-ui.github.io/tododudes-site/apply-now/
